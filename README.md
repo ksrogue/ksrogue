@@ -1,4 +1,6 @@
-### Olá, eu sou o David William! Bem-vindo ao meu perfil no GitHub. ✌️😉
+### Olá, eu sou o David William, também conhecido como ksrogue. Tenho 26 anos e atualmente estou estudando a trindade do desenvolvimento Web (HTML 5, CSS 3 e JavaScript)... 
+### Sejam bem-vindos ao meu perfil no GitHub. 
+### 😉✌️
 <div>
   <a href="https://github.com/ksrogue">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ksrogue&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
