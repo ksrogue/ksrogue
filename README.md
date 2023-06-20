@@ -2,7 +2,7 @@
 
 ### <p align="center">Sejam bem-vindos ao meu perfil no GitHub. </p>
 
-### <div align="center">😉✌️</div>
+### <div align="center">✌️😉</div>
 
 ##
 <div align="center">
