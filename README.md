@@ -1,8 +1,8 @@
-### <p align="center">Olá, eu sou o David William, também conhecido como ksrogue. Tenho 26 anos e atualmente estou estudando a trindade do desenvolvimento Web (HTML 5, CSS 3 e JavaScript).</p>
+ <p align="center">Olá, eu sou o David William, também conhecido como ksrogue. Tenho 26 anos e atualmente estou estudando a trindade do desenvolvimento Web (HTML 5, CSS 3 e JavaScript).</p>
 
-### <p align="center">Sejam bem-vindos ao meu perfil no GitHub. </p>
+ <p align="center">Sejam bem-vindos ao meu perfil no GitHub. </p>
 
-### <div align="center">✌️😉</div>
+ <div align="center">✌️😉</div>
 
 ##
 <div align="center">
