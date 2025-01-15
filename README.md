@@ -1,4 +1,4 @@
- <p align="center">Olá, eu sou o David William. Tenho 26 anos e atualmente estou estudando a trindade do desenvolvimento Web (HTML 5, CSS 3 e JavaScript).</p>
+ <p align="center">Olá, eu sou o David William. Tenho 27 anos e atualmente estou estudando a trindade do desenvolvimento Web (HTML 5, CSS 3 e JavaScript).</p>
 
  <p align="center">Sejam bem-vindos ao meu perfil no GitHub. </p>
 
@@ -15,6 +15,7 @@
   <img align="center" alt="ksrogue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ksrogue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ksrogue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="ksrogue-React" height="30" width="40" src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg">
 </div>
 
 ##
